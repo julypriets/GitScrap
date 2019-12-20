@@ -1,0 +1,15 @@
+{
+  "name": "getmails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juan2ramos <juan2ramos@gmail.com> (http://juan2ramos.com)",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.8.1",
+    "request": "^2.88.0"
+  }
+}
